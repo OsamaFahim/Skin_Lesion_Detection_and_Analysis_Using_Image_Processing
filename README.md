@@ -1,0 +1,2 @@
+# Skin_Lesion_Detection_and_Analysis_Using_Image_Processing
+ This project implements techniques for detecting and analyzing skin lesions through image processing methods. It focuses on identifying lesion regions using **Connected Components Labeling**, **K-Means Clustering**, and evaluating the results using the **DICE Coefficient**. The implementation also includes **Run Length Encoding (RLC)** for efficient storage of segmented images.
