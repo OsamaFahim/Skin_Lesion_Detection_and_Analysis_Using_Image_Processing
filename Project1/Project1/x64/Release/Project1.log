@@ -1,0 +1,9 @@
+﻿  read_file.cpp
+D:\data structures university\Assignment1\rough practies\Project1\Project1\component_label.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\data structures university\Assignment1\rough practies\Project1\Project1\k_means.h(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  0 of 110 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> D:\data structures university\Assignment1\rough practies\Project1\x64\Release\Project1.exe
