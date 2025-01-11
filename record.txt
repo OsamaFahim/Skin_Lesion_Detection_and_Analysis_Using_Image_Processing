@@ -1,0 +1,3 @@
+		Labelled 	Clustered
+image 042	95.7881		95.592	
+image 075   	85.8659		84.3604
